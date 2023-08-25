@@ -1,8 +1,8 @@
 # Crypto-Price
-Library needed to get bitcoin price
+Library needed to get bitcoin price:
 
-pip install pycoingecko
+    pip install pycoingecko
 
-Getting the price from a special api
+Getting the price from a special api:
 
-cg = CoinGeckoAPI()
+     cg = CoinGeckoAPI()
